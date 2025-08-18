@@ -73,6 +73,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake.svg" alt="Snake animation" />
+![Snake Light](https://raw.githubusercontent.com/<USER>/<USER>/output/snake-light.svg#gh-light-mode-only)
+![Snake Dark](https://raw.githubusercontent.com/<USER>/<USER>/output/snake-dark.svg#gh-dark-mode-only)
 
 ###
