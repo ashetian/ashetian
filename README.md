@@ -3,7 +3,7 @@
 </div>
 
 # Hi 👋 
-My name is **Caner** and I'm just a guy hanging around trying to create cool stuff 🚀
+My name is **Caner** and I'm just a guy hanging around trying to create cool stuff
 
 ---
 
