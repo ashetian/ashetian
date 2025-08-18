@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ashetian.ashetian&left_color=crimson&right_color=darkorange" />
 </div>
 
-# Hi 👋 
+# Hey There
 My name is **Caner** and I'm just a guy hanging around trying to create cool stuff
 
 ---
@@ -13,7 +13,7 @@ My name is **Caner** and I'm just a guy hanging around trying to create cool stu
 </div>
 
 
-### 📫 You can find me on...
+### You can find me on...
 
 <div align="left">
   <a href="https://instagram.com/ashetian_" target="_blank">
@@ -28,7 +28,7 @@ My name is **Caner** and I'm just a guy hanging around trying to create cool stu
 </div>
 
 
-### ⚡ Technologies I use
+### Technologies I'm familiar with
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
