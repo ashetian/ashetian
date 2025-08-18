@@ -73,7 +73,7 @@
 
 ###
 
-![Snake Light](https://raw.githubusercontent.com/ashetian/ashetian/output/snake-light.svg#gh-light-mode-only)
-![Snake Dark](https://raw.githubusercontent.com/ashetian/ashetian/output/snake-dark.svg#gh-dark-mode-only)
+<img align="right" src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-light.svg#gh-light-mode-only" />
+<img align="right" src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-dark.svg#gh-dark-mode-only" />
 
 ###
