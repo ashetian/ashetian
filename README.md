@@ -12,21 +12,6 @@ My name is **Caner** and I'm just a guy hanging around trying to create cool stu
   <img src="https://streak-stats.demolab.com?user=ashetian&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
----
-
-<table>
-  <tr>
-    <td style="padding:0; margin:0; border:0; vertical-align:top;">
-      <img src="https://media1.tenor.com/m/dSNWp8qI85IAAAAd/hodl-meme.gif" height="250" alt="gif"/>
-    </td>
-    <td style="padding:0; margin:0; border:0; vertical-align:top;">
-      <img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-dark.svg#gh-dark-mode-only" height="250" />
-      <img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-light.svg#gh-light-mode-only" height="250" />
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📫 You can find me on...
 
@@ -42,7 +27,6 @@ My name is **Caner** and I'm just a guy hanging around trying to create cool stu
   </a>
 </div>
 
----
 
 ### ⚡ Technologies I use
 
@@ -66,3 +50,15 @@ My name is **Caner** and I'm just a guy hanging around trying to create cool stu
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" />
 </div>
+
+<table>
+  <tr>
+    <td style="padding:0; margin:0; border:0; vertical-align:top;">
+      <img src="https://media1.tenor.com/m/dSNWp8qI85IAAAAd/hodl-meme.gif" height="250" alt="gif"/>
+    </td>
+    <td style="padding:0; margin:0; border:0; vertical-align:top;">
+      <img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-dark.svg#gh-dark-mode-only" height="250" />
+      <img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-light.svg#gh-light-mode-only" height="250" />
+    </td>
+  </tr>
+</table>
