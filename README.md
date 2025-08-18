@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name Caner and I'm just a guy hanging around trying to create cool stuff</h1>
+z<h1 align="left">Hi 👋! My name Caner and I'm just a guy hanging around trying to create cool stuff</h1>
 
 ###
 
@@ -74,7 +74,6 @@
 ###
 
 <p align="left" style="margin:0; padding:0;">
-  <img src="https://media.giphy.com/media/26Ff4zG8Y8Z7T5M7K/giphy.gif" width="300" style="display:inline-block; margin:0; padding:0;" />
   <img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-dark.svg#gh-dark-mode-only" style="display:inline-block; margin:0; padding:0;" />
   <img src="https://raw.githubusercontent.com/ashetian/ashetian/output/snake-light.svg#gh-light-mode-only" style="display:inline-block; margin:0; padding:0;" />
 </p>
