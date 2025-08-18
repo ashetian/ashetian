@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ashetian.ashetian&left_color=crimson&right_color=darkorange"  />
 </div>
 
@@ -11,7 +11,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ashetian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ashetian&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashetian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
